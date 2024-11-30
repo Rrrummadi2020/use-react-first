@@ -1,0 +1,23 @@
+{
+    "singleQuote": true,
+    "printWidth": 140,
+    "editor.formatOnSave": true,
+    "proseWrap": "always",
+    "tabWidth": 4,
+    "requireConfig": false,
+    "useTabs": false,
+    "trailingComma": "none",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "semi": true,
+    "bracketSameLine": true,
+    "arrowParens": "always",
+    "endOfLine": "lf",
+    "importOrder": ["path/to/external", "^[./]"],
+    "importStatementSpacing": {
+        "after": 1,
+        "before": 1
+    },
+    "classProperties": "separate",
+    "functionSpacing": true
+}
